@@ -1,4 +1,3 @@
-#A01637341  Leonardo Galindo Sánchez
 #Para que el programa funcione correctamente, es mejor que el programa se corra en consola
 import math
 import random
